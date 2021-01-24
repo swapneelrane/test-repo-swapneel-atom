@@ -12592,7 +12592,7 @@
           "type": "Polygon",
           "properties": {"st_nm": "Bihar", "st_code": "10", "year": "2011_c"},
           "id": "Bihar"
-        },
+        }
       ]
     }
   }
